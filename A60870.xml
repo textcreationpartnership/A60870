@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some thoughts concerning the better security of our trade and navigation and carrying on the war against France more effectually. Humbly offered to consideration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60870</idno>
+            <idno type="STC">Wing S4627</idno>
+            <idno type="STC">ESTC R219118</idno>
+            <idno type="EEBO-CITATION">99830640</idno>
+            <idno type="PROQUEST">99830640</idno>
+            <idno type="VID">35093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35093)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2078:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some thoughts concerning the better security of our trade and navigation and carrying on the war against France more effectually. Humbly offered to consideration.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy cropped, affecting text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35093:1"/>
+            <p>Some THOUGHTS CONCERNING THE BETTER SECURITY OF OUR Trade and Navigation, And Carrying on the WAR AGAINST FRANCE MORE EFFECTUALLY. <hi>Humbly Offered to Conſideration.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35093:2"/>
+            <head>Some Thoughts concerning the better Security of our Trade and Naviga<g ref="char:EOLhyphen"/>tion, and carrying on the War againſt <hi>France</hi> more Effectually: Humbly Offered to Conſideration.</head>
+            <p>I Always thought it the Duty of every Man to contribute what in him lyes to the Happineſs and Welfare of his Native Country, and therefore at a time when the Nation is engaged in a Neceſſary and Expenſive War, and ſtruggles under Difficulties to maintain it as it ought, many from time to time have divulged their Notions and Apprehenſions, ſome for raiſing of Mo<g ref="char:EOLhyphen"/>ney, ſome for the better or more thrifty Management of ſundry Particulars relating to the War; ſome one thing, and ſome another, and whether they are in the right or wrong, I think whileſt they modeſtly give their Opinions, they do not deſerve blame. But it ſeems to me that none have yet throughly diſcovered the Malady under which we labour, or propoſed the full and proper Remedy. Perhaps in time it may, and in order thereunto I have reſolved to offer my Thoughts to the Publick in the following Diſcourſe.</p>
+            <list>
+               <item>1. And Firſt, I ſhall conſider what, according to my Apprehenſion, is the true In<g ref="char:EOLhyphen"/>tereſt of <hi>England</hi> in general, and with reſpect to the preſent War with <hi>France</hi> in particular.</item>
+               <item>
+                  <hi>2dly,</hi> What has been the Reaſon that hitherto we ſee no better Effect of this War.</item>
+               <item>
+                  <hi>3dly,</hi> By what means it may be advantagiouſly continued, and at length arrive to its deſired Iſſue.</item>
+            </list>
+            <p>And as to the Firſt, it is to be conſidered, that the ſtrength of <hi>England,</hi> or rather of <hi>Great Britain</hi> and <hi>Ireland,</hi> lyes in the number and ſtrength of their Fleets at Sea, and thoſe Fleets are always ſtronger or weaker in proportion to thoſe of our Neigh<g ref="char:EOLhyphen"/>bour Nations: Heretofore before Trade was driven to the Eaſt and Weſt <hi>Indies,</hi> the <hi>European</hi> Nations were not ſo Powerful and Numerous in Ships of Force, nor was there need of it. When the <hi>Dutch</hi> fitted out but 40 Ships of War, and the <hi>French</hi> but 20, it ſufficed then that <hi>England</hi> fitted out 60, or a few more; but ſince both the <hi>Dutch</hi> and <hi>French,</hi> as well as we, have enlarged our Trades to the Eaſt and Weſt <hi>Indies,</hi> more Seamen have been bred in each Nation, and they thereby enabled to fit out greater Fleets in time of War than formerly. The <hi>French</hi> King well con<g ref="char:EOLhyphen"/>ſidered that he could never expect any conſiderable Succeſs againſt <hi>England</hi> or <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> unleſs he had a Fleet able to deal with theirs; and therefore wiſely for himſelf provided ſo conſiderable a Navy, ſuch as not many thought he would ever have been able to fit to Sea, <hi>viz.</hi> 100 Sail or near of Capital Ships; but ſtill they proved too few againſt <hi>England</hi> and <hi>Holland</hi> united, becauſe they were able to ſend out a greater. And I think I may confidently enough affirm, that at what time ſoever either of the three Nations (for no other ſtand in Competition in theſe Seas) ſhall not be able to ſet forth a Fleet of Ships capable to Engage the Fleets of the other two Nations in Conjunction, that Nation muſt one time or other give up the Soveraignty of the Seas, and be expoſed to Invaſion and Conqueſt, or at leaſt to great Diſturbance and Anoyance in time of War. And becauſe <hi>England</hi> alone (by which I all along mean <hi>Great Britain</hi> and <hi>Ireland</hi>) is able to do this, whileſt it underſtands and purſues its true Intereſt; therefore in ſuch caſe by conſequence neither <hi>Holland</hi> nor <hi>France</hi> can, but are ſubjected to the like hazard and danger, when <hi>England</hi> is in Conjunction with either of thoſe other Nations, as it is now with <hi>Holland:</hi> And therefore it ſeems to me that <hi>France</hi> might ſome time ago have been brought down, if proper Methods had been proſecuted: Not that I would hereby go about to blame or cenſure the Con<g ref="char:EOLhyphen"/>duct of Affairs, but as all Humane Actions are ſubject to various Caſualties and Events, and many Difficulties occur in great Tranſactions, which are not eaſily ob<g ref="char:EOLhyphen"/>viated; ſo it is no wonder if the ſame Fact has befallen this Kingdom. The <hi>French,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:35093:4"/>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſteps during this War; ſome by Land, but more by Sea; or perhaps they might ſtill have been in a better condition, and we in a worſe: And whoever ſhall conſider well the late Revolution, the great Difficulties the King has encountred, not only in for<g ref="char:EOLhyphen"/>ming and carrying on the Confederacy abroad, but in managing the different Inte<g ref="char:EOLhyphen"/>reſts and Factions at home, may rather think it ſtrange to ſee things look with ſo good a face in the general as they do. The King has done his part, all that was for him Perſonally to do, to a Miracle, in carrying on the War with invincible Courage and Reſolution, and has never loſt a Minutes time, or any Opportunity to Proſecute it with Vigour, which I wiſh could be ſaid of all his Subjects. <hi>But the diſcuſſing things in order to a yet more ſucceſsful Proſecution of the War, and not Complaints, is the Pro<g ref="char:EOLhyphen"/>vince I am now engaged in, and in order to that, I may ſay that.</hi> I am, and always was of Opinion, that the Parliament have been ſo far from giving the King too much Money from time to time, that the firſt three Years if they had given him half as much more, it would have ſaved the Nation a great deal, in bringing the War ſooner to a good end. And I think ſtill that it is better, and more for the Advantage of the Nation, to give 8 Millions a Year than 5, provided it be well laid out, which is no dif<g ref="char:EOLhyphen"/>ficult matter to ſee to. I have often heard it ſaid, that the Parliament have always given the King what he asked, but the reaſon ſeems plain why the King or his Mi<g ref="char:EOLhyphen"/>niſters ask no more, and that is, becauſe it comes with ſo much difficulty; whereas if the People did well conſider how much it is the Intereſt of <hi>England</hi> to bring down the Exorbitant Power of <hi>France,</hi> they would give more freely and readily than the King could ask. For what Security has any in <hi>England</hi> of enjoying their Religion, their Laws, their Liberties, and Properties, whileſt <hi>France</hi> has a Fleet and Armies able to overcome us, if we were ſingly engaged againſt them, at leaſt they had at the be<g ref="char:EOLhyphen"/>ginning of this War? And how Fatal would it have been to us, if <hi>England</hi> and <hi>France</hi> had joyned together firſt to ruin <hi>Holland,</hi> and then to ſet up an Arbitrary Power in <hi>England,</hi> as it was deſigned, had the late Reign continued, and as yet the intention of ſome is, if they could break the Conſederacy, or take off the King, or raiſe a Civil War in <hi>England</hi> before the Power of <hi>France</hi> is abated? It is true, the<note n="*" place="margin">A Ship ſo called, burnt with the reſt at <hi>La Hogue.</hi>
+               </note>
+               <hi>Royal Sun</hi> of <hi>France</hi> is ſet, and ſince their Fleet has ſailed by Moon<g ref="char:EOLhyphen"/>light, and ſo has wandred and loſt its way, and cannot yet recover it; but they hope to ſee their Natural Sun riſe again, and break forth, and bring a Glorious Day along with it. Though perhaps <hi>Lewis</hi> XIV. may fall aſleep in this Cloudy Night, and (if it ſhould happen at any time hereafter) may never wake to ſee it. It lyes upon us then, now to improve the Opportunity which Providence has put into our hands. And that brings the Second thing I propoſed into conſide<g ref="char:EOLhyphen"/>ration; and that is, Why the War goes on ſo heavily, and ſo many Difficulties attend the Proſecution of it, and in raiſing Money; and that many People complain ſo hea<g ref="char:EOLhyphen"/>vily of Loſſes, want of Trade, bad Money, riſe of Guineys, <hi>&amp;c.</hi> Some find fault with the Bank, ſome with the Million Lottery and Annuities, and ſome with borrow<g ref="char:EOLhyphen"/>ing Clauſes: And they would be in the right, if they could propoſe any other ways and means that are really better. It muſt be acknowledged, that by them the Nation pays dear for Ready Money, but Ready Money muſt be had for the Proſecution of the War, and bringing down the Power of <hi>France,</hi> which is the firſt Intereſt <hi>England</hi> has at preſent, and ſuch ways to that end muſt be taken as can be found, till better offer.</p>
+            <p>Now, I do not find that the Cure of this Diſeaſe has been throughly diſcovered; it has been indeed propoſed how the value of Lands may be raiſed, and the Intereſt of Money lowered, which is a way to prejudice thoſe that have Money at preſent, but does not at all enrich the Nation: For ſuppoſe 100 <hi>l. per An.</hi> in Land be now worth 20 Years Purchaſe, which is 2000 <hi>l.</hi> and Intereſt of Money is 5 <hi>per Cent.</hi> If Land come to 30 Years Purchace, then that Land will ſell for 3000 <hi>l.</hi> and if at the ſame time the Intereſt of Money be at 3 <hi>per Cent.</hi> then the Gentleman who has Sold his Eſtate for 3000 <hi>l.</hi> makes 90 <hi>l. per An.</hi> of his Money; whereas before if he Sold it for 2000 <hi>l</hi> at 5 <hi>per Cent.</hi> Intereſt, he made 100 <hi>l. per An.</hi> which is loſs to him. So that <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I do not ſee how this will help the Landed
+<pb facs="tcp:35093:3"/>Rich or Poor only in compariſon with our Neighbours; for to that purpoſe Riches and Strength are all one, whileſt Riches will procure Strength. I am aware that ſome will ſay, that People are a great part of the Strength of a Nation, which I own; and I include them in what I call Riches, as will appear preſently. And therefore it is not the raiſing the Value of Lands, or lowering the Rate of Intereſt by Law or otherwiſe at once by a kind of <hi>Hocus Pocus,</hi> or ſlight of hand, but the increaſing the Wealth and Stock of the Nation, which will neceſſarily draw along with it thoſe good Con<g ref="char:EOLhyphen"/>ſequences; and that is done by theſe two ways, and no other: Firſt, By Importing more from abroad in Money or Money's worth than we ſend abroad. Secondly, By a greater Production in value by the Land and the Manufacture of the People in <hi>England,</hi> than the whole People conſume in Cloathing, Diet, and all other Expences. And it is ſo, and no otherwiſe in the Eſtate and Stock of the whole Nation, as it is in the Eſtate and Stock of a Private Family; the ſpending out of the Principal, or main Stock, leſſens a man's Eſtate; and ſo the ſpending or loſing out of the Principal Stock of the Nation, leſſens that, and weakens the Nation, and that we have been doing all this War; and it is the Remedy of that only which I conceive can Redreſs the Inconveniences complained of, and that will help the Land and all things elſe; for unleſs you bring it to paſs, that the Land will produce more Corn, Hay, Graſs, But<g ref="char:EOLhyphen"/>ter, and Cheeſe, or whatever it be, than it uſed to do; and that the ſaid Product will Sell for the ſame Price it did, or that the Country Gentleman can buy what he has occaſion for at leſſer Prizes than now he does; nothing elſe will Advantage him. For if you by a Law, or any other way at once (except it happens by the neceſſity of Trade ariſing from the increaſe of the Stock of the Nation) lower Intereſt, and raiſe the value of Lands, it is only an imaginary Advance, and will rob <hi>Peter</hi> to pay <hi>Paul;</hi> that is, wrong thoſe that have Money, to ſerve thoſe whoſe Lands are engaged, and at the ſame time, not better or increaſe the true or real value of the Lands, nor increaſe the Stock of the Nation, which alone can Remedy all the Evils complained of.</p>
+            <p>And having thus prepared my way, I come without ſcruple to declare, That it has been the want of a proper Method in carrying on, and preſerving the Foreign Trade of the Nation, and the Loſſes ſuſtained by that, which has been the true Reaſon of the decay of Trade at home, the ſcarcity of good Money, and plenty <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> riſe of Guineys, and the great difficulty in raiſing Money for carrying on the War. For if the Foreign Trade were promoted and ſecured as it might be, we might eaſily find Money to carry on a laſting War with <hi>France,</hi> and perhaps increaſe in Wealth at the ſame time. We have in that reſpect by our Situation a great Advantage of all <hi>European</hi> Nations, with reſpect to the Fiſhery, <hi>&amp;c.</hi> if truly proſecuted; and by our Settlements in, and Trades to the <hi>Weſt-Indies,</hi> have got very much the ſtart of them, if we do not by our own Improvidence and undue Management give away the Advantages we are poſſeſt of; we have done a great deal towards it in the <hi>Eaſt-India</hi> Trade, which might eaſily be retrieved, not only to the Nation's Honour and Advantage, but to the Adaantage and good liking both of the Company and Inter<g ref="char:EOLhyphen"/>lopers, if they were in a Temper to hearken to moderate Propoſals; but it ſeems it is not yet the time, for I know that it has been offered to Men conſiderably con<g ref="char:EOLhyphen"/>cerned in the Companies, to make ſuch Propoſals as would be highly to their Ad<g ref="char:EOLhyphen"/>vantage, and Satisfactory to the Interlopers, and of ſuch general Advantage, as that there is no doubt but the Parliament would confirm: But they cared not ſo much as to hear or receive them. What the Myſtery is, I cannot tell, or rather I do not think fit to publiſh. I hope it will not fall out ſo with what concerns the Nation in gene<g ref="char:EOLhyphen"/>ral, whoſe Wealth and Strength, as I have ſaid, is increaſed by the increaſe of Foreign Trade, and the Advantages which that brings with it; and this ſeems ſo evident, as I do not remember that I have heard any one contradict or deny it: For it carries out all our own Product and Manufacture, and makes <hi>England</hi> a Mart for Foreign Com<g ref="char:EOLhyphen"/>modities, and imports them in greater plenty and cheaper, and adds to the Number of our Shipping, and Navigation, and Seamen, and brings in Foreigners into our Nation;
+<pb facs="tcp:35093:5"/>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt of the Traders have either loſt their Eſtates, or drawn them out of Trade to lend the Government and Employ at home, which ſerves a preſent Occaſion, and would have been a good Expedient for a War of a Year or two; but for a laſting War as this is, the Government and the People will find it Fatal, if not timely reme<g ref="char:EOLhyphen"/>died.</p>
+            <p>And in order to eſtabliſh a means whereby the Foreign Trade may be increaſed and ſecured, it muſt be conſidered, that the preſent War with <hi>France</hi> is not like to a War with <hi>Holland</hi> or <hi>Spain,</hi> or other Nations; and therefore ought to be managed after another manner: The Situation of <hi>Holland,</hi> with reſpect to <hi>England,</hi> is ſuch, that they cannot on a ſudden ſend out any great number of Ships of War to inter<g ref="char:EOLhyphen"/>cept Fleets of Merchants Ships going and coming with Convoy, eſpecially in the Entrance into the Channel, where our greateſt Danger is; neither can other Nations do it, not having Ports near to Friend, and therefore in Wars with thoſe Na<g ref="char:EOLhyphen"/>tions, the ſecureſt way of Trading is probably to ſend out and return Trading Ships in Fleets with Convoys. But in the preſent War, if other Meaſures be not taken, than hitherto have been, our Trade is like to be wholly ruined, and when that is ef<g ref="char:EOLhyphen"/>fected, the Fleet of Ships of War cannot be long maintained. Our Iſland may be compared to a Garriſon, which may be diſtreſſed and ſtarved, and by that means as well as by downright Force, conſtrained to Surrender. It is to be ſeen therefore what the danger and inconvenience is of carrying on our Trade with Fleets, and two or three Convoys, as hitherto, and if it may not be made more large and ſecure by another Method.</p>
+            <p>The greateſt danger of loſing our Ships is in and near the entrance into our Chan<g ref="char:EOLhyphen"/>nel, as has been too apparent, for that above three quarters of the Ships loſt ſince the beginning of this War, have been taken there; and the <hi>French</hi> having ſo Commodi<g ref="char:EOLhyphen"/>ous Ports, as <hi>Breſt</hi> and St. <hi>Malo's, &amp;c.</hi> to pop out and in at any time with what num<g ref="char:EOLhyphen"/>ber of Ships they pleaſe, it is rather to be wondred they have not taken more of our Ships, than that they have taken ſo many. The Inconvenience and danger attend<g ref="char:EOLhyphen"/>ing our Trading in Fleets this War, I ſhall repreſent in the following Particulars.</p>
+            <list>
+               <item>1. The Enemy knows the ſtrength of our Convoys, and their times of ſetting out and returning, and can more eaſily contrive to intercept them, as has been too evi<g ref="char:EOLhyphen"/>dent.</item>
+               <item>2. Many Goods laden for long Voyages are periſhable, and decay whileſt the Ships wherein they are laden attend on the Convoys.</item>
+               <item>3. Greater Wages are given to Seamen, and greater Charges in ſitting out ſo ma<g ref="char:EOLhyphen"/>ny Ships together, which cauſes exceſſive great Freights to be paid, to the extream Prejudice of Trade, for Workmen and Seamen on a Glut will have their own Price.</item>
+               <item>4. The time taken up in attending on Convoys at home and abroad increaſes the Charge of the Voyage to double what it otherwiſe would be.</item>
+               <item>5. Buying Goods all at a time here makes them very dear, and coming together in a glut to the Markets abroad, cauſes them to be ſold cheap, whereby the Advan<g ref="char:EOLhyphen"/>tage that might be made by Trade is loſt.</item>
+               <item>6. Embargoes being continued moſt part of the Year, or Preſſing of Seamen, which is the ſame thing in effect, our Ships cannot then go out, and in the mean time Foreign Ships come and carry away our Trade, and earn vaſt Sums for Freight by their Ships and Seamen.</item>
+               <item>7. During the Embargoes, the fair Merchants, who ſubmit to the Orders of the Government, muſt lye ſtill, whileſt many by Private ways and means get out Ships under various Pretences, which can never be prevented.</item>
+               <item>8. The Fleets to the <hi>Weſt-Indies</hi> that go out in the Winter for the Crops, can ne<g ref="char:EOLhyphen"/>ver return with that Years Crop in time to ſerve His Majeſty's Royal Navy with the Seamen the following Summer.</item>
+               <item>9. Going out in Winter, and at unſeaſonable times, the Ships and Cargoes are ſub<g ref="char:EOLhyphen"/>ject to great hazards by Storms, <hi>&amp;c.</hi> and the Ships themſelves ſpoiled; and great Mortality happens to Seamen by lying long abroad, as has been too fatally experi<g ref="char:EOLhyphen"/>enced. For</item>
+            </list>
+            <pb facs="tcp:35093:6"/>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will Yearly add mightily to the Stock of the Nation, which conſiſts in People, Land, Houſes, Money, Plate, Jewels, and all ſorts of Merchandize. And though to many this need not be explained, yet I do not think it improper for the ſake of others, to add the Explanation. For inſtance,</p>
+            <p>Suppoſe in <hi>England, Scotland,</hi> and <hi>Ireland</hi> (reckoning certain Numbers for uncer<g ref="char:EOLhyphen"/>tain) there is in this Year 1695. in People 10 Millions.
+<table>
+                  <row>
+                     <cell>in Land the value of 1 Year</cell>
+                     <cell>10 Millions.</cell>
+                  </row>
+                  <row>
+                     <cell>in Houſes</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>in Money</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>in Plate and Jewels</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>in Corn, Woollen, and Home Goods</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>in Foreign Goods</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>30 Millions.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now, if by any Accident you loſe any People, or Land or Houſes abate in their Yearly Produce and Value (and not in an imaginary Value,) for the Nation was not any thing the Richer for Guineys riſing to 30 <hi>s.</hi> apiece, unleſs in Foreign Nations they would have ſold for 50 <hi>per Cent.</hi> more than they did before, and brought ſo much over-plus into <hi>England</hi> (which by the alteration of the Exchange it did not do.) Or again, if there be leſs Money, Plate, Corn, <hi>&amp;c.</hi> or Foreign Goods, in the Year 1696. Then will the Nation be ſo much the poorer and weaker next Year than it is this: And on the other hand, if any or all the things above-mentioned, wherein the Riches of the Nation conſiſts, ſhall be increaſed, ſo as that the whole amounts to more, then will the Nation be richer and ſtronger. As if a man has one Year Ten Bags with each 50 <hi>l.</hi> in them, which is together 500 <hi>l.</hi> it is not the taking out 10 <hi>l.</hi> apiece out of 5 Bags, and adding it to the other 5 Bags to make them 60 <hi>l.</hi> each, that increaſes his ſtore, but an addition to the whole by any ſort of Improvement.</p>
+            <p>It is to be conſidered further, that the Intereſt of Trade and Land are the ſame, for the mutation frequently happens; the Moneyed Man to day is a Landed Man to morrow; and the Landed Man to day becomes a Moneyed Man to morrow: Every man according to his Sentiments of things turns and winds his Eſtate as he <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will be moſt Advantagious to him; and therefore if it could be ſuppoſed that Land would come to 30 Years Purchaſe by any Stratagem, unleſs, as I have ſaid, the Land it ſelf would produce more, ſome would Sell till mo<g ref="char:EOLhyphen"/>ney grew ſcarce to Purchaſe, and Land plenty to Sell, and then the Scales would turn, and it would fall again; and nothing but the increaſe of money in the Nation, or of the Stock of the Nation in other things would or will lower the Intereſt of money, and increaſe the Value of Lands: And when Money and Goods are more plentiful, then there will be more buyers of Land, and ſo it will riſe of courſe and neceſſity, and conſequently the Intereſt of money fall. And nothing but a large Foreign Trade, eſpecially when we are engaged in an Expenſive War, as at preſent, can add to the value of Land. And therefore the general ſtate of the Nation ought to be conſi<g ref="char:EOLhyphen"/>dered, and that will help all: For till money be more plenty, and the Stock of the Nation increaſed, as it has been decreaſed, you will find the Intereſt of money keep up in general; and it is not ſome few little Devices that will effect it in the main. It is true, if I have 1000 <hi>l.</hi> in my hands of another man's without Intereſt, I may lend it at 3 <hi>per Cent.</hi> Intereſt, and get well by it. And the Bank, that has 8 <hi>per Cent.</hi> Intereſt from the Nation, and has great Credit, may lend at 3 <hi>per Cent.</hi> And this is ſome Advantage to ſome particular Perſons, but not very conſiderable to the Nation in general, it bearing no proportion to the Charges or Loſſes occaſioned by the War; but it muſt be a real plenty of Money which enforces a neceſſity of ta<g ref="char:EOLhyphen"/>king a low Intereſt, becauſe they cannot do better, which will Cure the Malady: And this can be effected by no other means than increaſing the Stock of the Nation, and that by Foreign Trade, as has often been ſaid. But the greateſt difficulty is, how to promote and carry on this ſo ſecurely, that many may rather be induced to continue
+<pb facs="tcp:35093:7"/>Trade, it is Humbly Propoſed,</p>
+            <p>That all Ships may be permitted to go and come when and as often as they pleaſe, whereby the aforeſaid Inconveniences in Trade will be removed, and a far greater Trade driven, and thereby His Majeſty's Cuſtoms will be much augmented, many more Seamen bred, (for that Landmen would go out in Summer-time, and be made good Seamen againſt the following Year) and better Proviſion made for Manning His Majeſty's Fleet; and I doubt not but the Security of the Ships ſo Trading might be provided for, and the before mentioned dangers in great meaſure prevented by the following Method.</p>
+            <p>1. That a ſufficient Number of Fourth Rate Frigats, with ſome Third Rate and Fifth Rates, as occaſion offers, may be appointed to Guard the Channel, and the Entrance into it, and to Cruize off <hi>Cape Clear</hi> in <hi>Ireland:</hi> And this I conceive may be done by 16 or 20 Frigats, two whereof Sailing continually between the <hi>Downs</hi> and <hi>Plimouth</hi> and <hi>Falmouth,</hi> and ſo back again; taking under their Charge all Mer<g ref="char:EOLhyphen"/>chants Ships that ſhall be ready to Sail with them: And 14 or more may be con<g ref="char:EOLhyphen"/>ſtantly Cruzing from <hi>Plimouth</hi> to the <hi>Soundings</hi> and <hi>Cape Clear,</hi> 3 or 4, or ſome<g ref="char:EOLhyphen"/>times 5 in a Squadron, plying to and again in proper places by turns, that when ſome muſt come in to recruit, the others may be in their ſtations, and once a Month bringing the Ships from <hi>Kingſale</hi> that ſhall put in there. And by this means the <hi>French</hi> Privateers will be frequently ſnapt up if they adventure abroad, and they will ſoon find that it will hardly be worth their while to come out.</p>
+            <p>2. That Ships of War may remain at the Iſlands in the <hi>Weſt-Indies</hi> for the Secu<g ref="char:EOLhyphen"/>rity of the ſaid Iſlands, and of Ships going to and coming from thence; and as ſome Ships of War muſt be often coming home from thence, and others in their room going thither, ſuch may ſerve as Convoys going out, and coming home, to ſuch as ſhall deſire to embrace that Opportunity. And it might not be difficult to contrive how the Mortality of ſo many Seamen in the <hi>Weſt-Indies</hi> might be prevented.</p>
+            <p>3. That ſome Ships of War might Cruiſe on the Coaſts of <hi>Spain</hi> and <hi>Portugal,</hi> and whileſt we have a ſtrong Fleet at <hi>Cadiz,</hi> or in the <hi>Streights,</hi> as we now have, and ought always to have, and ſhould have had ſooner, it is very eaſie to contrive the carrying on, and ſecurity of the Trades to <hi>Spain, Italy,</hi> and <hi>Turkey.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Trades to the Northward, it is beſt carried on with Convoys, be<g ref="char:EOLhyphen"/>cauſe in thoſ Seas only ſmall Privateers uſe, againſt whom the Convoys are a ſuffi<g ref="char:EOLhyphen"/>cient Guard, and there we cannot be eaſily ſurprized by any great ſtrength, as to the Southward we may.</p>
+            <p>It is not to be expected that in this ſhort Scheme all the Particulars ſhould be ſet forth that are neceſſary to the through Management of the Trade in this manner; but if the general Notion find Entertainment, the Author is ready to anſwer all Ob<g ref="char:EOLhyphen"/>jections, and in all particular Inſtances that may occur, to demonſtrate that it will be Practicable, <hi>&amp;c.</hi> with more Security to the Trader, and leſs Charge to the Crown, than hitherto it has been. And then the want of Money will be ſupplyed, the Stock, and conſequently the Strength and Riches of the Nation increaſed, and with<g ref="char:EOLhyphen"/>out much difficulty the <hi>French</hi> Navigation may be deſtroyed, on the ſtrength whereof that Monarch has for ſome time paſt founded his hopes of the Accompliſhment of his Great Atchivements; and without which (as the caſe now ſtands in <hi>Europe</hi>) he will always fail ſucceeding in great Enterprizes, unleſs <hi>England</hi> become again ſo blinded, or rather corrupted, as to contribute to the Increaſe of his Naval Force and Power.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
